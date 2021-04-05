@@ -6,7 +6,7 @@ from numpy.fft import *
 class WeinerFilter(object):
 
     def __init__(self):
-        self.image_path = "C:/Users/Admin/Desktop/Computer Vision/Motion Blur Removal/Images/selfie.jpg"
+        self.image_path = "<YOUR IMAGE PATH>"
         
         self.image = None
         self.kernel = None
@@ -22,7 +22,7 @@ class WeinerFilter(object):
 
         self.filter_height = 30
         self.filter_width = 30
-        self.axis = (0,15)
+        self.axis = (15,0)
         self.theta = 0
 
     def get_image(self):
