@@ -126,9 +126,6 @@ def main():
 
     #Get the blurred Image.
     Filter.get_image()
-
-    #Blur the image if it is not blurred.
-    #image = Filter.blur_image()
     
     #Change the contrast of the Image.
     #Filter.change_contrast()
