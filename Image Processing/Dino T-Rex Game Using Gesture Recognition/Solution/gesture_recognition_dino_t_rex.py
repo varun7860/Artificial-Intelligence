@@ -1,3 +1,17 @@
+'''
+About the project
+-----------------
+- This is a simple project for playing Dino T-rex game with gestures. The gestures used in
+  this project are not of hand but of coloured object in the image. In this project I used
+  Red colour colour object to control/play the game. You can use your own coloured object to
+  control the game if you want. To autopress the keys on your laptop a library called pyautogui
+  is used.
+  
+How to play T-Rex game(Controls):
+---------------------------------
+- To JUMP : Moving the coloured object up in the image.
+'''
+
 import cv2
 import numpy as np
 import pygame
