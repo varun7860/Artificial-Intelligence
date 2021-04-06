@@ -146,15 +146,12 @@ def main():
     image = Filter.remove_ringing_effect()
     
     #Clean the image
-    #image = Filter.clean_image()
+    image = Filter.clean_image()
 
     #Resize the image
-    #image_1,image_2 = Filter.resize_image()
+    image_1,image_2 = Filter.resize_image()
 
-
-    #cv2.imwrite("dog.jpg",image)
     cv2.imshow("Restored Image", image)
-    #cv2.imshow("Blurred Image", image_2)
 
     if cv2.waitKey(0) & 0xFF == ord('q'):
         cv2.destroyAllWindows()
