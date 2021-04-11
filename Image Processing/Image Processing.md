@@ -3,7 +3,7 @@ Image Processing is a sub-branch of Artificial Intelligence which deals with imp
 digital computer to process digital images using the known Algorithms. It allows using multiple algorithms which prevents building up noise,
 distortion and other outliers in an image.
 
-### Important Tasks of Image Processing
+### Important Quests of Image Processing
 - Classification
 - Feature Extraction
 - Pattern Recognition
