@@ -4,7 +4,8 @@
 
 Image Processing is a sub-branch of Artificial Intelligence which deals with improving the quality of Image Data. It consists of using a 
 digital computer to process digital images using the known Algorithms. It allows using multiple algorithms which prevents building up noise,
-distortion and other outliers in an image.
+distortion and other outliers in an image. This repository will consist of all kinds of Image Processing projects. But before going forward
+this description file to get started.
 
 ### What is an Image?
 Image is a two dimensional function `F(x,y)` where x is the width and y is the height of the image. The value of F(x,y) gives the value of
