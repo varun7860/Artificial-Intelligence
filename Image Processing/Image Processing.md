@@ -8,6 +8,8 @@ distortion and other outliers in an image. This repository will consist of all k
 this description file to get started.
 
 ### What is an Image?
+<img align="center" width="600" height="315" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/images/what%20is%20image.png">
+
 Image is a two dimensional function `F(x,y)` where x is the width and y is the height of the image. The value of F(x,y) gives the value of
 the pixel at that point. The amplitude(A) of "F" is called the intensity of an image. When the values of x,y and A are finite then the image
 if called a digital image otherwise the image is an analog image. As the function consists of two values ie x and y an image is represented by
