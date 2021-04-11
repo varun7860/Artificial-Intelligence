@@ -33,16 +33,16 @@ elements of digital image.
 - MultiScale Signal Analysis
 
 ### Techniques of Image Processing
-- Image Restoration.
-- Image Editing.
-- Neural Networks.
-- Point Feature Matching.
-- Image Linear Filtering.
-- Wavelets.
-- Self Organizing Maps.
-- Pixelation.
-- Anisotrophic Diffusion
-- Partial Differential Equations.
-- Independent Component Analysis
-- Markov Models.
-- Principal Component Analysis.
+1. Image Restoration: This technique involves gaining image lost properties by deblurring or denoising the image.
+2. Image Editing: This involves manipulating images by cropping, changing aspect ratio....and many more.
+3. Neural Networks: This is used for classifying images based on their features by using Artificial Neural Networks(ANN)
+4. Point Feature Matching: This is used for identifying similar images corresponding to the input image.
+5. Image Linear Filtering: This involves applying various filters on image to enchance image properties.
+6. Wavelets and Multi Resolution Processing: Used to representing Images in degrees.
+7. Self Organizing Maps:
+8. Pixelation:
+9. Anisotrophic Diffusion:
+10. Partial Differential Equations:
+11. Independent Component Analysis:
+12. Hidden Markov Models(HMM):
+13. Principal Component Analysis:
