@@ -22,7 +22,7 @@ elements of digital image.
                   colour image processing. It has 65,536 different colours in it.
                   
 ### Image in mathematical form
- An image is given in the matrix form by :
+<img align="center" width="409" height="188" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/images/image%20formula.png">
 
           
 ### Important Quests of Image Processing
