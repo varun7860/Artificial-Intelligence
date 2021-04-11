@@ -19,7 +19,7 @@ elements of digital image.
                   colour image processing. It has 65,536 different colours in it.
                   
 ### Image in mathematical form
->> An image is given in the matrix form by :
+ An image is given in the matrix form by :
 
 F(x,y) = [F(0,0, F(0,1), F(0,2)......F(0,N-1)
           F(1,0),F(1,1), F(1,2)......F(1,N-1)
