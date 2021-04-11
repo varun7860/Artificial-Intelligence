@@ -40,16 +40,30 @@ elements of digital image.
 4. Point Feature Matching: This is used for identifying similar images corresponding to the input image.
 5. Image Linear Filtering: This involves applying various filters on image to enchance image properties.
 6. Wavelets and Multi Resolution Processing: Used to representing Images in degrees.
-7. Self Organizing Maps:
-8. Pixelation:
-9. Anisotrophic Diffusion:
-10. Partial Differential Equations:
-11. Independent Component Analysis:
-12. Hidden Markov Models(HMM):
-13. Principal Component Analysis:
+7. Self Organizing Maps: An Artificial Neural Network method used for image classification.
+8. Pixelation: The process of distinguishing individual pixels.
+9. Anisotrophic Diffusion(Perona Malik Diffusion): Technique used to remove noise without altering the features of the Image.
+10. Partial Differential Equations: Treating images as continous objects instead of discrete using numerical analysis and then using PDE's for image processing.
+11. Independent Component Analysis: Used to remove randomly mixed images or videos and reconstructing the original one by independent components.
+12. 2D-Hidden Markov Models(HMM): Used for image classification by modelling the Images using 2D Hidden Markov models.
+13. Principal Component Analysis: Used for reducing data or Image dimensions.Highly used when image has more than 2 dimensions. Basically used in the compression
+                                  of digital images.
 
 ### Difference between Image processing, Computer Vision, Artificial Intelligence and Computer Graphics
 1. Image Processing: If the input is an Image and the output is also an Image then this is called Image processing.
 2. Computer vision : If the input is an Image and the output is some kind of data in string or any kind of code then this is called Computer Vision.
 3. Computer Graphics: If the input is some kind of data and the output is an Image then this is called computer Graphics.
 4. Artificial Intelligence: If the input is data or some kind of code and the output is also some kind of label or data then this is called Artificial Intelligence.
+
+###  Image Transformations Techniques
+- Filtering: Used for blurring or sharpening the images.
+- Image padding in Fourier domain filtering: Used for padding the image before using it in fourier domain.
+- Affline Transformations: Used for scaling, rotating, translating, mirroring and shearing images.
+
+### Applications of Image Processing
+1. Image Editing
+2. Video Editing
+3. Digital Camera Images
+4. Used in making films
+5. Computer Vision
+6. Retrieving useful information.
