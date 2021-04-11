@@ -1,5 +1,5 @@
 # Image Processing
-<img align="center" width="563" height="539" src="https://github.com/varun7860/Arduino-projects/blob/master/Frame%20for%20%20the%20Blind/Images/Obstacle%20Detection%20Device%20for%20the%20Blind.jpg"> 
+<img align="center" width="600" height="315" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/images/Image%20Processing.png"> 
 Image Processing is a sub-branch of Artificial Intelligence which deals with improving the quality of Image Data. It consists of using a 
 digital computer to process digital images using the known Algorithms. It allows using multiple algorithms which prevents building up noise,
 distortion and other outliers in an image.
