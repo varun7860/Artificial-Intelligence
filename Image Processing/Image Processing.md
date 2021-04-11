@@ -61,6 +61,8 @@ elements of digital image.
 - Affline Transformations: Used for scaling, rotating, translating, mirroring and shearing images.
 
 ### Applications of Image Processing
+
+<img align="center" width="500" height="229" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/images/Applications.png">
 1. Image Editing
 2. Video Editing
 3. Digital Camera Images
