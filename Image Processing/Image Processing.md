@@ -7,7 +7,7 @@ digital computer to process digital images using the known Algorithms. It allows
 distortion and other outliers in an image.
 
 ### What is an Image?
-Image is a two dimensional function "F(x,y)" where x is the width and y is the height of the image. The value of F(x,y) gives the value of
+Image is a two dimensional function `F(x,y)` where x is the width and y is the height of the image. The value of F(x,y) gives the value of
 the pixel at that point. The amplitude(A) of "F" is called the intensity of an image. When the values of x,y and A are finite then the image
 if called a digital image otherwise the image is an analog image. As the function consists of two values ie x and y an image is represented by
 two dimensional matrix with x rows and y columns. A digital image comprises of finite number of elements called pixels. Pixels are denoted as the
