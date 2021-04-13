@@ -7,7 +7,7 @@ output folder.
 
 
 
-### Exepcted Output
+### Expected Output
 
 ### Hint
 As you need to detect the number of boxes in a given image you need to detect squares in a given image as all the boxes are square in shape. So
@@ -17,3 +17,6 @@ all the squares present in the image figure out the contours which have area sim
 ### Tips
 - Learn about the OpenCv python library in depth.
 - Always use object oriented approach for programming as it is faster and cleaner.
+
+
+### Demonstration Video - Expected Output
