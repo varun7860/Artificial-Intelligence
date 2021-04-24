@@ -4,7 +4,7 @@ images folder. Also apart from just counting mark all the boxes which are detect
 output folder.
 
 ### Input Image
-<img align="center" width="600" height="315" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/images/Image%20Processing.png">
+<img align="center" width="600" height="800" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Images/Boxes.jpg">
 
 
 ### Expected Output
