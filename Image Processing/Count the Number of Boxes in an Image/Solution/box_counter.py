@@ -5,8 +5,8 @@ class BoxCalculator(object):
 
     def __init__(self):
         
-        self._image_path = "C:/Users/Admin/Desktop/Computer Vision/Count the Number of Boxes in an Image/Images/Boxes.jpg"
-        self.output_path = "C:/Users/Admin/Desktop/Computer Vision/Count the Number of Boxes in an Image/Output/output.jpg"
+        self._image_path = "<PUT YOUR INPUT IMAGE PATH HERE>"
+        self.output_path = "<PUT YOUR OUTPUT IMAGE PATH HERE>"
         self._width = 600
         self._height = 600
         self.boxes = 0
