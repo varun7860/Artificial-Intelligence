@@ -2,7 +2,7 @@
 In this task you need to count the number of boxes from the input image. The input image from which you need to detect boxes is present in the 
 images folder. Also apart from just counting mark all the boxes which are detected in the given image and then save the image as output in the
 output folder.
-<img align="center" width="400" height="533" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Images/Basic%20Example.png">
+<img align="center" width="734" height="318" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Images/Basic%20Example.png">
 
 
 ### Input Image
