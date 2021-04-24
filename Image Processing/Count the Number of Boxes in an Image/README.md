@@ -9,7 +9,7 @@ output folder. To get started you can use the given image below:
 
 ### Input Image
 
-Given below is an example of expected output. You can use a different input image as well if you want to. Just make sure that input image contains
+Given below is an example of input image. You can use a different input image as well if you want to. Just make sure that input image contains
 boxes which are square or rectangle shaped.
 
 <img align="center" width="400" height="533" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Images/Boxes.jpg">
