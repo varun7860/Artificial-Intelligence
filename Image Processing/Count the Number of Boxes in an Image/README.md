@@ -8,7 +8,7 @@ output folder.
 
 
 ### Expected Output
-<img align="center" width="300" height="300" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Output/output.jpg">
+<img align="center" width="400" height="400" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Output/output.jpg">
 
 ### Hint
 As you need to detect the number of boxes in a given image you need to detect squares in a given image as all the boxes are square in shape. So
