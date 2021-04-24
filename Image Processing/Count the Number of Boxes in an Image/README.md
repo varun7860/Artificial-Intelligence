@@ -4,10 +4,11 @@ images folder. Also apart from just counting mark all the boxes which are detect
 output folder.
 
 ### Input Image
-
+<img align="center" width="600" height="315" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/images/Image%20Processing.png">
 
 
 ### Expected Output
+<img align="center" width="600" height="315" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/images/Image%20Processing.png">
 
 ### Hint
 As you need to detect the number of boxes in a given image you need to detect squares in a given image as all the boxes are square in shape. So
