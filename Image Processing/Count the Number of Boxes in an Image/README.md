@@ -1,7 +1,7 @@
 # Counting Number of boxes in a given Image - Problem Statement
 In this task you need to count the number of boxes from the input image. The input image from which you need to detect boxes is present in the 
 images folder. Also apart from just counting mark all the boxes which are detected in the given image and then save the image as output in the
-output folder.
+output folder. To get started you can use the given image below:
 
 
 <img align="center" width="600" height="260" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Images/Basic%20Example.png">
