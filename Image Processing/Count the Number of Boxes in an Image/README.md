@@ -4,10 +4,18 @@ images folder. Also apart from just counting mark all the boxes which are detect
 output folder.
 
 ### Input Image
+
+Given below is an example of expected output. You can use a different input image as well if you want to. Just make sure that input image contains
+boxes which are square or rectangle shaped.
+
 <img align="center" width="400" height="533" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Images/Boxes.jpg">
 
 
 ### Expected Output
+
+Given below is an example of expected output. This is not the only expected output and your output can be different and even better. As long
+as you are able to detect boxes your output is correct.
+
 <img align="center" width="400" height="400" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Count%20the%20Number%20of%20Boxes%20in%20an%20Image/Output/output.jpg">
 
 ### Hint
