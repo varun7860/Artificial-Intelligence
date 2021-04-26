@@ -7,8 +7,8 @@ T-Rex or also called Jumping Dinosaur is an built-in browser game in google chro
 press the space, up or down key to make the dinosaur jump over the obstacles. If the dinosaur hits the obstacle then the game is over and the player has 
 to start over the game again with 0 points. Given below are the two links where you can find this game:
 
-1.Link 1:
-2.Link 2:
+1.Link 1 >>
+2.Link 2 >>
 
 ### Learning Modules
 To built the project you need to get familiar with the learning modules given below. Learn them step by step in the sequence given below:
