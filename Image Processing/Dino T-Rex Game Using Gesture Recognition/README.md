@@ -13,9 +13,11 @@ to start over the game again with 0 points. Given below are the two links where 
 ### Learning Modules
 To built the project you need to get familiar with the learning modules given below. Learn them step by step in the sequence given below:
 
-1. Computer Vision
-2. Python Programming
-3. Pyautogui library
-4. 
+1. [Computer Vision](https://tryolabs.com/resources/introductory-guide-computer-vision/)
+2. [Python Programming]()
+3. [Pyautogui library]
+4. [Numpy Library]
+5. [Open CV library]
+6. [Image processing]
 
 ### Expected Output
