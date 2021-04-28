@@ -6,10 +6,9 @@ detect the gestures made by you and then autopress a key on your system to contr
 the task is completed:
 
 1. `Whenever plays makes a gesture the dinosaur should jump`
-2. There should be low latency between the gesture made by the player and the jump made by the dinosaur.
-3. Gesture controller should be marked by a rectangle or square on the camera feed. When the controller moves the square or rectangle should
-   also move along with it.
-4. The Code should be commented and well linted.You can use pylint to lint your code.
+2. `There should be low latency between the gesture made by the player and the jump made by the dinosaur.`
+3. `Gesture controller should be marked by a rectangle or square on the camera feed. When the controller moves the square or rectangle should also move along with it`.
+4. `The Code should be commented and well linted.You can use pylint to lint your code.`
 
 
 ## About the Game
