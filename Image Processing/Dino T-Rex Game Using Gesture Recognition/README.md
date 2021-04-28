@@ -28,7 +28,7 @@ to start over the game again with 0 points. Given below are the two links where 
 
 To built the project you need to get familiar with the learning modules given below. Learn them step by step in the sequence given below:
 
-1. `[Computer Vision](https://tryolabs.com/resources/introductory-guide-computer-vision/)`
+1. [Computer Vision](https://tryolabs.com/resources/introductory-guide-computer-vision/)
 2. [Python Programming](https://www.w3schools.com/python/)
 3. [Pyautogui library](https://pyautogui.readthedocs.io/en/latest/)
 4. [Numpy Library](https://www.w3schools.com/python/numpy/numpy_intro.asp)
