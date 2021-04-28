@@ -27,4 +27,4 @@ To built the project you need to get familiar with the learning modules given be
 5. [Open CV library](https://www.geeksforgeeks.org/opencv-python-tutorial/)
 6. [Image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 
-### Expected Output
+## Expected Output
