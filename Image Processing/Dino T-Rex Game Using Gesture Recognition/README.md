@@ -2,7 +2,14 @@
 <img align="center" width="600" height="274" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Dino%20T-Rex%20Game%20Using%20Gesture%20Recognition/Assets/Gesture%20Control.png">
 
 In this task you need to control a game called "T-Rex" using Gestures through simple computer vision techniques. Your program should
-detect the gestures made by you and then autopress a key on your system to control the game.
+detect the gestures made by you and then autopress a key on your system to control the game. Following things should be achieved after
+the task is completed:
+
+1.Whenever plays makes a gesture the dinosaur should jump
+2.There should be low latency between the gesture made by the player and the jump made by the dinosaur.
+3.Gesture controller should be marked by a rectangle or square on the camera feed. When the controller moves the square or rectangle should
+  also move along with it.
+4.The Code should be commented and well linted.You can use pylint to lint your code.
 
 
 ## About the Game
