@@ -37,3 +37,7 @@ Learn them step by step in the sequence given below:
 6. [Image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 
 ## Expected Output
+[![alt text][1]][2]
+
+[1]: 
+[2]: https://youtu.be/nb_hnOeazkE
