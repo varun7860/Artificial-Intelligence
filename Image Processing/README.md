@@ -36,7 +36,7 @@ elements of digital image.
 - MultiScale Signal Analysis
 
 ### Techniques of Image Processing
-1. Image Restoration: This technique involves gaining image lost properties by deblurring or denoising the image.
+1. `Image Restoration`: This technique involves gaining image lost properties by deblurring or denoising the image.
 2. Image Editing: This involves manipulating images by cropping, changing aspect ratio....and many more.
 3. Neural Networks: This is used for classifying images based on their features by using Artificial Neural Networks(ANN)
 4. Point Feature Matching: This is used for identifying similar images corresponding to the input image.
