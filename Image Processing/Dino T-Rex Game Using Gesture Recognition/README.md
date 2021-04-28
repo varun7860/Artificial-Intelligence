@@ -14,6 +14,9 @@ to start over the game again with 0 points. Given below are the two links where 
 2.Link 2 >>
 
 ### Learning Modules
+
+<img align="center" width="700" height="467" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Dino%20T-Rex%20Game%20Using%20Gesture%20Recognition/Assets/Learning%20Modules.jpg">
+
 To built the project you need to get familiar with the learning modules given below. Learn them step by step in the sequence given below:
 
 1. [Computer Vision](https://tryolabs.com/resources/introductory-guide-computer-vision/)
