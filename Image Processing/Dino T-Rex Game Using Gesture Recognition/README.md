@@ -1,4 +1,5 @@
 # Gesture Controlled T-Rex Game using Computer Vision
+<img align="center" width="400" height="400" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Dino%20T-Rex%20Game%20Using%20Gesture%20Recognition/Assets/Gesture%20Control.png">
 In this task you need to control a game called "T-Rex" using Gestures through simple computer vision techniques. Your program should
 detect the gestures made by you and then autopress a key on your system to control the game.
 
