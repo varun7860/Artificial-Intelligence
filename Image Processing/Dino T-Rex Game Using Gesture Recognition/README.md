@@ -14,6 +14,7 @@ the task is completed:
 
 ## About the Game
 <img align="center" width="500" height="287" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Dino%20T-Rex%20Game%20Using%20Gesture%20Recognition/Assets/Dino%20T%20Rex.jpeg">
+
 T-Rex or also called Jumping Dinosaur is an built-in browser game in google chrome web browser. To play the game, the player has to tap the dinosaur or
 press the space, up or down key to make the dinosaur jump over the obstacles. If the dinosaur hits the obstacle then the game is over and the player has 
 to start over the game again with 0 points. Given below are the two links where you can find this game:
