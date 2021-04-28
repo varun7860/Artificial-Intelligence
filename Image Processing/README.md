@@ -52,10 +52,10 @@ elements of digital image.
                                      of digital images.
 
 ### Difference between Image processing, Computer Vision, Artificial Intelligence and Computer Graphics
-1. Image Processing: If the input is an Image and the output is also an Image then this is called Image processing.
-2. Computer vision : If the input is an Image and the output is some kind of data in string or any kind of code then this is called Computer Vision.
-3. Computer Graphics: If the input is some kind of data and the output is an Image then this is called computer Graphics.
-4. Artificial Intelligence: If the input is data or some kind of code and the output is also some kind of label or data then this is called Artificial Intelligence.
+1. `Image Processing` : If the input is an Image and the output is also an Image then this is called Image processing.
+2. `Computer vision` : If the input is an Image and the output is some kind of data in string or any kind of code then this is called Computer Vision.
+3. `Computer Graphics` : If the input is some kind of data and the output is an Image then this is called computer Graphics.
+4. `Artificial Intelligence` : If the input is data or some kind of code and the output is also some kind of label or data then this is called Artificial Intelligence.
 
 ###  Image Transformations Techniques
 - Filtering: Used for blurring or sharpening the images.
