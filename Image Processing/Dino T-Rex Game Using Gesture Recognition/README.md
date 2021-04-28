@@ -5,7 +5,7 @@ In this task you need to control a game called "T-Rex" using Gestures through si
 detect the gestures made by you and then autopress a key on your system to control the game. Following things should be achieved after
 the task is completed:
 
-1. Whenever plays makes a gesture the dinosaur should jump
+1. `Whenever plays makes a gesture the dinosaur should jump`
 2. There should be low latency between the gesture made by the player and the jump made by the dinosaur.
 3. Gesture controller should be marked by a rectangle or square on the camera feed. When the controller moves the square or rectangle should
    also move along with it.
