@@ -1,4 +1,6 @@
 # Motion Blur Remover Using Image Processing
+<image align = "Center", width = 600, height = 330, src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Motion%20Blur%20Remover/Assets/Image%20Deblurring.jpg">
+  
 In this task the goal is to remove Blur from an image using image processing concepts.Your program should remove the
 from the image to such an extent that the viewer should be able to see the details clearly in the image. Your program
 take an input blurred image and output an image which is deblurred. Following things should be achieved when this task is
