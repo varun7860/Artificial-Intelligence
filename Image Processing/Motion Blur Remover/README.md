@@ -4,8 +4,9 @@ from the image to such an extent that the viewer should be able to see the detai
 take an input blurred image and output an image which is deblurred. Following things should be achieved when this task is
 completed:
 
-1. Completely deblurred output image.
-2. Output image should be displayed on the screen.
-3. The program should be general. This means that it should work for any image which are blurred equally.
-4. The code should neatly commented and linted. Pylint can be used to lint the code.
-5. 
+1. `Completely deblurred output image.`
+2. `Output image should be displayed on the screen.`
+3. `The program should be general. This means that it should work for any image which are blurred equally.`
+4. `The code should neatly commented and linted. Pylint can be used to lint the code.`
+5. `The program should be fast and accurate.`
+6. `Ringing Effect obtained after deblurring should be as minimum as possible.`
