@@ -12,3 +12,9 @@ completed:
 4. `The code should neatly commented and linted. Pylint can be used to lint the code.`
 5. `The program should be fast and accurate.`
 6. `Ringing Effect obtained after deblurring should be as minimum as possible.`
+
+## What is Motion Blur?
+
+## Learning Modules
+
+## Expected Output
