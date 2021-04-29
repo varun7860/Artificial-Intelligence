@@ -15,6 +15,8 @@ completed:
 
 ## What is Motion Blur?
 
+## Filters used for deblurring
+
 ## Learning Modules
 
 ## Expected Output
