@@ -42,15 +42,15 @@ blur can be found [here](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIE
 Whichever filter you use , the algorithm for deblurring an image will always remain the same. Follow these steps to transform the blurred
 image to an estimate of its ideal form:
 
-1. Find the type of motion blur (vertical, horizontal or circular) in the image.
-2. Change the contrast of the image if necessary
-3. Zero pad the image before applying Fourier Transform.
-4. Obtain the point spread function (PSF) or power spectral density (PSD)
-5. Make the deconvolution kernel using PSF obtained in step 4
-6. Apply the Filter (I applied Weiner Filter)
-7. Remove the ringing effect noise after the deblurred image is obtained.
-8. Resize the image if necessary.
-9. Display and save the deblurred image in the necessary folder.
+1. `Find the type of motion blur (vertical, horizontal or circular) in the image.`
+2. `Change the contrast of the image if necessary`
+3. `Zero pad the image before applying Fourier Transform.`
+4. `Obtain the point spread function (PSF) or power spectral density (PSD)`
+5. `Make the deconvolution kernel using PSF obtained in step 4`
+6. `Apply the Filter (I applied Weiner Filter)`
+7. `Remove the ringing effect noise after the deblurred image is obtained.`
+8. `Resize the image if necessary.`
+9. `Display and save the deblurred image in the necessary folder.`
 
 ## Filters used for deblurring
 
