@@ -16,6 +16,14 @@ completed:
 ## What is Motion Blur?
 <img align = "center" width = "300" height = "250" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Motion%20Blur%20Remover/Assets/Blurred%20Image.gif">
 
+Motion Blur is a degradation of image caused due to the moment of the object relative to the sensor in the camera when the
+shutter is open. Motion Blur can also be caused due to the movement of camera as well. For example if you take a picture while
+moving your camera the resultant image will be motion blurred. There are 3 types of blur:
+
+- Horizontal Blur: Linear motion is horizontal direction
+- Vertical Blur: Linear motion in vertical direction
+- Circular Blur: Linear motion is circular direction
+
 ## Filters used for deblurring
 
 ## Learning Modules
