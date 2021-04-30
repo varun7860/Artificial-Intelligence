@@ -67,9 +67,10 @@ Learn them step by step in the sequence given below:
 
 1. [Computer Vision](https://tryolabs.com/resources/introductory-guide-computer-vision/)
 2. [Python Programming](https://www.w3schools.com/python/)
-3. [Pyautogui library](https://pyautogui.readthedocs.io/en/latest/)
+3. [Weiner Deconvolution](https://pyautogui.readthedocs.io/en/latest/)
 4. [Numpy Library](https://www.w3schools.com/python/numpy/numpy_intro.asp)
 5. [Open CV library](https://www.geeksforgeeks.org/opencv-python-tutorial/)
 6. [Image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
+7. [Kernel](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
 ## Expected Output
