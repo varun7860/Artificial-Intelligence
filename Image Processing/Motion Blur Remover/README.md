@@ -54,6 +54,10 @@ image to an estimate of its ideal form:
 
 ## Filters used for deblurring
 
+1. [Weiner Filter (If noise is present)](https://en.wikipedia.org/wiki/Wiener_filter#:~:text=In%20signal%20processing%2C%20the%20Wiener,noise%20spectra%2C%20and%20additive%20noise.)
+2. [Inverse Filter (If image is noiseless)](http://www.owlnet.rice.edu/~elec539/Projects99/BACH/proj2/inverse.html)
+
+
 ## Learning Modules
 
 ## Expected Output
