@@ -26,7 +26,8 @@ moving your camera the resultant image will be motion blurred. There are 3 types
 
 The motion blur can be completely removed by process called deconvolution in image processing. Based on the type of of motion
 blur, the kernel used for deconvolution will be different for each blur. For example, for horizontal blur the horizontal deconvolution
-kernel will be used.
+kernel will be used. Depending on the extent of motion blur the size of kernel will increase or decrease. More information about motion
+blur can be found [here](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0506/s0198594.pdf)
 
 ## Filters used for deblurring
 
