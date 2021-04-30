@@ -30,6 +30,19 @@ kernel will be used. Depending on the extent of motion blur the size of kernel w
 blur can be found [here](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0506/s0198594.pdf)
 
 ## Point Spread Function (PSF)
+A Point Spread Function is a function which is convolved with a sharp image to produce the blurred Image. As in our task we don't have
+sharp image but have blurred image, so we need to compute the point PSF of the image to obtain the sharp image. Mathematically the equation
+can be written as:
+
+`B = PSF * S`
+Where,
+B = Blurred Image
+PSF = point spread function
+S = Sharp Image.
+
+So to compute sharp image the formula will become:
+
+`S = PSF/B`
 
 ## Algorithm to deblur an Image
 
