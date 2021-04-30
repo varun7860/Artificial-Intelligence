@@ -29,6 +29,8 @@ blur, the kernel used for deconvolution will be different for each blur. For exa
 kernel will be used. Depending on the extent of motion blur the size of kernel will increase or decrease. More information about motion
 blur can be found [here](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0506/s0198594.pdf)
 
+## Algorithm to deblur an Image
+
 ## Filters used for deblurring
 
 ## Learning Modules
