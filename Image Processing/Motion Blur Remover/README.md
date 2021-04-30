@@ -20,9 +20,9 @@ Motion Blur is a degradation of image caused due to the moment of the object rel
 shutter is open. Motion Blur can also be caused due to the movement of camera as well. For example if you take a picture while
 moving your camera the resultant image will be motion blurred. There are 3 types of blur:
 
-- Horizontal Blur: Linear motion is horizontal direction
-- Vertical Blur: Linear motion in vertical direction
-- Circular Blur: Linear motion is circular direction
+- `Horizontal Blur`: Linear motion is horizontal direction
+- `Vertical Blur`: Linear motion in vertical direction
+- `Circular Blur`: Linear motion is circular direction
 
 The motion blur can be completely removed by process called deconvolution in image processing. Based on the type of of motion
 blur, the kernel used for deconvolution will be different for each blur. For example, for horizontal blur the horizontal deconvolution
