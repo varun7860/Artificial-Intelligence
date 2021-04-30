@@ -29,6 +29,8 @@ blur, the kernel used for deconvolution will be different for each blur. For exa
 kernel will be used. Depending on the extent of motion blur the size of kernel will increase or decrease. More information about motion
 blur can be found [here](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0506/s0198594.pdf)
 
+## Point Spread Function (PSF)
+
 ## Algorithm to deblur an Image
 Whichever filter you use , the alogrithm for deblurring an image will always remain the same. Follow these steps to transform the blurred
 image to an estimate of its ideal form:
