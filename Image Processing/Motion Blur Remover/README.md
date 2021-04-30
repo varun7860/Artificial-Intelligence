@@ -2,7 +2,7 @@
 <img align = "center" width = "600" height = "330" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Motion%20Blur%20Remover/Assets/Image%20Deblurring.jpg">
   
 In this task the goal is to remove Blur from an image using image processing concepts.Your program should remove the
-from the image to such an extent that the viewer should be able to see the details clearly in the image. Your program
+blur from the image to such an extent that the viewer should be able to see the details clearly in the image. Your program
 take an input blurred image and output an image which is deblurred. Following things should be achieved when this task is
 completed:
 
@@ -30,6 +30,11 @@ kernel will be used. Depending on the extent of motion blur the size of kernel w
 blur can be found [here](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/AV0506/s0198594.pdf)
 
 ## Algorithm to deblur an Image
+Whichever filter you use , the alogrithm for deblurring an image will always remain the same. Follow these steps to transform the blurred
+image to an estimate of its ideal form:
+
+1. Find the type of motion blur(vertical, horizontal or circular) in the image.
+2. 
 
 ## Filters used for deblurring
 
