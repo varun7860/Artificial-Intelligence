@@ -38,7 +38,9 @@ can be written as:
 
 Where,
 B = Blurred Image.
+
 PSF = point spread function.
+
 S = Sharp Image.
 
 So to compute sharp image the formula will become:
