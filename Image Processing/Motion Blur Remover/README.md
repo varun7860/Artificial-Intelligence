@@ -24,6 +24,10 @@ moving your camera the resultant image will be motion blurred. There are 3 types
 - Vertical Blur: Linear motion in vertical direction
 - Circular Blur: Linear motion is circular direction
 
+The motion blur can be completely removed by process called deconvolution in image processing. Based on the type of of motion
+blur, the kernel used for deconvolution will be different for each blur. For example, for horizontal blur the horizontal deconvolution
+kernel will be used.
+
 ## Filters used for deblurring
 
 ## Learning Modules
