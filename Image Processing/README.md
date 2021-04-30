@@ -58,9 +58,9 @@ elements of digital image.
 4. `Artificial Intelligence` : If the input is data or some kind of code and the output is also some kind of label or data then this is called Artificial Intelligence.
 
 ###  Image Transformations Techniques
-- Filtering: Used for blurring or sharpening the images.
-- Image padding in Fourier domain filtering: Used for padding the image before using it in fourier domain.
-- Affline Transformations: Used for scaling, rotating, translating, mirroring and shearing images.
+- `Filtering: Used for blurring or sharpening the images.`
+- `Image padding in Fourier domain filtering: Used for padding the image before using it in fourier domain.`
+- `Affline Transformations: Used for scaling, rotating, translating, mirroring and shearing images.`
 
 ### Applications of Image Processing
 
