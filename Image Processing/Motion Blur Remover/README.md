@@ -37,6 +37,7 @@ can be written as:
 `B = PSF * S`
 
 Where,
+
 B = Blurred Image.
 
 PSF = point spread function.
