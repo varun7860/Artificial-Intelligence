@@ -14,7 +14,7 @@ completed:
 6. `Ringing Effect obtained after deblurring should be as minimum as possible.`
 
 ## What is Motion Blur?
-<img align = "center" width = "400" height = "400" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Motion%20Blur%20Remover/Assets/Blurred%20Image.gif">
+<img align = "center" width = "400" height = "350" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Motion%20Blur%20Remover/Assets/Blurred%20Image.gif">
 
 ## Filters used for deblurring
 
