@@ -77,5 +77,5 @@ Learn them step by step in the sequence given below:
 [![alt text][1]][2]
 
 [1]: https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Dino%20T-Rex%20Game%20Using%20Gesture%20Recognition/Assets/Output.png
-[2]: https://youtu.be/6qf6tvbE4x0
+[2]: https://youtu.be/Jr3z_QA5mb0
 
