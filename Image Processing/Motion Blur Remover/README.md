@@ -86,6 +86,7 @@ Learn them step by step in the sequence given below:
 5. [Open CV library](https://www.geeksforgeeks.org/opencv-python-tutorial/)
 6. [Image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
 7. [Kernel](https://en.wikipedia.org/wiki/Kernel_(image_processing))
+8. [Point Spread Function](https://en.wikipedia.org/wiki/Point_spread_function)
 
 ## Expected Output
 [![alt text][1]][2]
