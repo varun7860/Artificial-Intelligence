@@ -35,7 +35,7 @@ blur can be found [here](https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIE
 
 <img align = "center" width = "400" height = "210" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Motion%20Blur%20Remover/Assets/Algorithm.jpg">
 
-Whichever filter you use , the alogrithm for deblurring an image will always remain the same. Follow these steps to transform the blurred
+Whichever filter you use , the algorithm for deblurring an image will always remain the same. Follow these steps to transform the blurred
 image to an estimate of its ideal form:
 
 1. Find the type of motion blur (vertical, horizontal or circular) in the image.
