@@ -35,6 +35,7 @@ sharp image but have blurred image, so we need to compute the point PSF of the i
 can be written as:
 
 `B = PSF * S`
+
 Where,
 B = Blurred Image
 PSF = point spread function
