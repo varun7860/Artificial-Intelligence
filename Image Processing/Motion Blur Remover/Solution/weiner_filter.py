@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 from numpy.fft import *
 
-
 class WeinerFilter(object):
 
     def __init__(self):
