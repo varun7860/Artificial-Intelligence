@@ -1,6 +1,6 @@
 # QR Code Scanner
 
-<img align = "center" width = "200" height = "200" src = "">
+<img align = "center" width = "400" height = "534" src = "">
 
 In this Task you need to scan and detect the QR Code sucessfully and then display the contents or information which
 is encoded in it on the python output terminal. Also write the output on the output image as well. You also need to draw 
