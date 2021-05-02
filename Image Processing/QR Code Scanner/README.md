@@ -24,7 +24,7 @@ contained in a typical QR Code:
 
 ## Sample Output Image.
 
-<img align = "center" width = "200" height = "200" src = "">
+<img align = "center" width = "500" height = "222" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Assets/Output.png">
 
 ## Learning Modules
 
