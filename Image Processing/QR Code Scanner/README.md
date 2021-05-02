@@ -15,7 +15,7 @@ contained in a typical QR Code:
 1. `Version Information` : consist of the version of the QR code.
 2. `Format Information` : Formatting details of the QR code.
 3. `Data and error correction keys` : QR codes can sometimes be scanned because of these keys even if the code is damaged.
-4. `Patterns` : Conatins Position, Alignment and Timing information of the QR Code.
+4. `Patterns` : Contains Position, Alignment and Timing information of the QR Code.
 5. `Quiet or Blank Zone` : Blank region outside the boundary of QR Code.
 
 ## Sample Input Image.
