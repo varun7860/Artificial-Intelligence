@@ -8,7 +8,7 @@ a bounding rectangle after detecting the QR Code.
 
 ## What are QR Codes?
 
-<img align = "center" width = "400" height = "224" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Assets/QR%20Codes.png">
+<img align = "center" width = "500" height = "280" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Assets/QR%20Codes.png">
 
 ## Sample Input Image.
 
