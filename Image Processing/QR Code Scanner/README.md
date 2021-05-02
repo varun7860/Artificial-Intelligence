@@ -12,7 +12,7 @@ a bounding rectangle after detecting the QR Code.
 
 ## Sample Input Image.
 
-<img align = "center" width = "320" height = "300" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Images/QR_4.png">
+<img align = "center" width = "280" height = "260" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Images/QR_4.png">
 
 ## Sample Output Image.
 
