@@ -45,6 +45,9 @@ Folder. You can refer these images to know whether your output is correct or not
 
 <img align = "center" width = "231"  height = "300" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Baggage%20AI/Assets/Output%20Image.png">
 
+## Learning Modules
+
+
 ## Applications 
 1. Can be Used in Schools
 2. Can be Used at airports
