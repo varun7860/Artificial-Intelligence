@@ -7,7 +7,10 @@ is encoded in it on the python output terminal. Also write the output on the out
 a bounding rectangle after detecting the QR Code.
 
 ## What are QR Codes?
-QR Codes are nothing but machine readable codes that contain important information.
+QR Codes are nothing but machine readable codes that contain important information. Following is kind of information
+contained in a typical QR Code:
+1. Version Information
+2. 
 <img align = "center" width = "500" height = "280" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Assets/QR%20Codes.png">
 
 ## Sample Input Image.
