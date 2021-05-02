@@ -6,12 +6,18 @@ any kind of sharp object are the examples of threat images. Your task is to crop
 merge it with the baggage image. It should not like the threat image is copy pasted. It should look like if the threat object was 
 already present in the baggage image. You can adjust the transparency of threat object to achieve this.
 
+## Sample Threat Image
+<img align = "center" width = "420"  height = "300" src = "">
+## Sample baggage Image
+<img align = "center" width = "420"  height = "300" src = "">
+
 ## Applications 
 1. Can be Used in Schools
 2. Can be Used at airports
 3. Can be used at Events
 4. Can be used at Railway stations
 5. Can be used in Prison.
+
 
 ## Expected Output
 [![alt text][1]][2]
