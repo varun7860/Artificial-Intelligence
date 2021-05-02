@@ -25,14 +25,24 @@ achieved at the end of the task:
 
 ## Sample Threat Image
 
+Given below is an example of threat image. 4 of these kinds of threat images are provided to you in threat images folder.These images or such similar
+images can be used for this task.
+
 <img align = "center" width = "231"  height = "272" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Baggage%20AI/Assets/threat.jpg">
 
 ## Sample baggage Image
+
+Given below is an example of Baggage image. 4 of these kinds of bag images are provided to you in background images folder.These images or such similar
+images can be used for this task.
 
 <img align = "center" width = "231"  height = "300" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Baggage%20AI/Assets/Bag.jpg">
 
 
 ## Sample Output Image
+
+Given below is an example of how your output image should look like. 4 of such images are provided to you in sample output images 
+Folder. You can refer these images to know whether your output is correct or not.
+
 <img align = "center" width = "231"  height = "300" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Baggage%20AI/Assets/Output%20Image.png">
 
 ## Applications 
