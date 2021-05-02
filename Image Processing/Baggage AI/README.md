@@ -1,5 +1,5 @@
 # Baggage Artificial Intelligence
-<img align = "center" width = "200"  height = "200" src = "">
+<img align = "center" width = "600"  height = "429" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Baggage%20AI/Assets/Baggage.gif">
 In this task you will have two sets of images. One are scanned X-ray images of an ordinary bag and sceond the scanned x-ray
 images of threat objects. Threat objects are the ones which possess threat to humans or any organization. Knife, explosives, guns or
 any kind of sharp object are the examples of threat images. Your task is to crop a threat object, rotate it by 45 degrees and then 
