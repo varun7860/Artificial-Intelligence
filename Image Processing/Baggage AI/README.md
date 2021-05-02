@@ -47,6 +47,18 @@ Folder. You can refer these images to know whether your output is correct or not
 
 ## Learning Modules
 
+<img align="center" width="500" height="334" src="https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Dino%20T-Rex%20Game%20Using%20Gesture%20Recognition/Assets/Learning%20Modules.jpg">
+
+To built the project you need to get familiar with the learning modules given below. You can use ideas from these modules but don't copy paste the code.
+Learn them step by step in the sequence given below:
+
+1. [Python Programming](https://www.w3schools.com/python/)
+2. [Numpy Library](https://www.w3schools.com/python/numpy/numpy_intro.asp)
+3. [Open CV library](https://www.geeksforgeeks.org/opencv-python-tutorial/)
+4. [Image processing](https://en.wikipedia.org/wiki/Digital_image_processing)
+5. [Pillow Library](https://pillow.readthedocs.io/en/3.0.x/handbook/tutorial.html)
+6. [Baggage AI](https://www.baggageai.com/)
+
 
 ## Applications 
 1. Can be Used in Schools
