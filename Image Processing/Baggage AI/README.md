@@ -14,6 +14,10 @@ already present in the baggage image. You can adjust the transparency of threat 
 
 <img align = "center" width = "231"  height = "300" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Baggage%20AI/Assets/Bag.jpg">
 
+
+## Sample Output Image
+<img align = "center" width = "231"  height = "300" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/Baggage%20AI/Assets/Bag.jpg">
+
 ## Applications 
 1. Can be Used in Schools
 2. Can be Used at airports
