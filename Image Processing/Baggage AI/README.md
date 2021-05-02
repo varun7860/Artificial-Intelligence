@@ -7,6 +7,8 @@ merge it with the baggage image. It should not like the threat image is copy pas
 already present in the baggage image. You can adjust the transparency of threat object to achieve this. Following things should be
 achieved at the end of the task:
 
+<BR>
+
 1. `Threat objects should be translucent, means it should not look like that it is cut pasted. It should look like that the threat`
    `was already there in the background images.`
 2. `Translucent means the threat objects should have shades of background where it is pasted.`
