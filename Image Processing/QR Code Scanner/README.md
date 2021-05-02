@@ -1,4 +1,4 @@
-# QR Code Scanner
+# QR Code Scanner Using Computer Vision
 
 <img align = "center" width = "500" height = "281" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Assets/QR%20Code%20Scanner.png">
 
