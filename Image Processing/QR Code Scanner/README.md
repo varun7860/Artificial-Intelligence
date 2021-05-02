@@ -1,6 +1,6 @@
 # QR Code Scanner
 
-<img align = "center" width = "400" height = "534" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Assets/QR%20Code.jpg">
+<img align = "center" width = "300" height = "400" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Assets/QR%20Code.jpg">
 
 In this Task you need to scan and detect the QR Code sucessfully and then display the contents or information which
 is encoded in it on the python output terminal. Also write the output on the output image as well. You also need to draw 
