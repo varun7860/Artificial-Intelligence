@@ -7,8 +7,11 @@ merge it with the baggage image. It should not like the threat image is copy pas
 already present in the baggage image. You can adjust the transparency of threat object to achieve this.
 
 ## Sample Threat Image
+
 <img align = "center" width = "420"  height = "300" src = "">
+
 ## Sample baggage Image
+
 <img align = "center" width = "420"  height = "300" src = "">
 
 ## Applications 
