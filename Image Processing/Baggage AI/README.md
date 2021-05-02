@@ -60,7 +60,7 @@ Learn them step by step in the sequence given below:
 6. [Baggage AI](https://www.baggageai.com/)
 
 
-## Applications 
+## Applications of Baggage AI
 1. Can be Used in Schools
 2. Can be Used at airports
 3. Can be used at Events
