@@ -6,3 +6,4 @@
 2. Data Mining
 3. Natural Language Processing
 4. Deep Learning
+5. Image Processing and Computer Vision.
