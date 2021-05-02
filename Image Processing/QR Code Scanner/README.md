@@ -9,8 +9,12 @@ a bounding rectangle after detecting the QR Code.
 ## What are QR Codes?
 QR Codes are nothing but machine readable codes that contain important information. Following is kind of information
 contained in a typical QR Code:
-1. Version Information
-2. 
+1. `Version Information` : consist of the version of the QR code.
+2. `Format Information` : Formatting details of the QR code.
+3. `Data and error correction keys` : QR codes can sometimes be scanned because of these keys even if the code is damaged.
+4. `Patterns` : Conatins Position, Alignment and Timing information of the QR Code.
+5. `Quiet or Blank Zone` : Blank region.
+
 <img align = "center" width = "500" height = "280" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Image%20Processing/QR%20Code%20Scanner/Assets/QR%20Codes.png">
 
 ## Sample Input Image.
