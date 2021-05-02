@@ -22,4 +22,4 @@ a bounding rectangle after detecting the QR Code.
 
 <img align = "center" width = "200" height = "200" src = "">
 
-## Exepected Output
+## Expected Output
