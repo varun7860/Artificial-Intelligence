@@ -1,4 +1,7 @@
 # Artificial-Intelligence
+
+<img align = "center" width = "200" height = "200" src = "" >
+
 Artificial Intelligence(AI) is a simulation of human intelligence in machines with the help of complex algorithms. These machines
 are programmed to think like humans and mimic their actions. The Artificial Intelligence is classified into 3 main types:
 1. `Artificial Narrow Intelligence(ANI-Weak AI)` : ANI is a kind of AI which doesn't which uses AI in solving specific and simple tasks. Like humans 
@@ -12,6 +15,9 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
    will do tasks better than humans by making humans obsolete.Some examples of this type of AI are Terminator, Transformers, and doraemon.
 
 ## Sub Catagories of AI
+
+<img align = "center" width = "200" height = "200" src = "" >
+
 1. Machine Learning
 2. Data Mining
 3. Natural Language Processing
@@ -23,6 +29,9 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 
 
 ## Programming Languages for AI
+
+<img align = "center" width = "200" height = "200" src = "" >
+
 1. Python (**Recommended**)
 2. R (**Recommended**)
 3. Java 
