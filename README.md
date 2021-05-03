@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-<img align = "center" width = "200" height = "200" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Assets/Artificial-Intelligence.jpg" >
+<img align = "center" width = "500" height = "284" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Assets/Artificial-Intelligence.jpg" >
 
 Artificial Intelligence(AI) is a simulation of human intelligence in machines with the help of complex algorithms. These machines
 are programmed to think like humans and mimic their actions. The Artificial Intelligence is classified into 3 main types:
