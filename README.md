@@ -28,7 +28,7 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 3. Java 
 4. Lisp **Very Old but still suited**
 5. Prolog
-6. C++
+6. C++ (**Not that known for AI but still can be used**)
 7. Javascript
 8. Matlab
 9. Julia
