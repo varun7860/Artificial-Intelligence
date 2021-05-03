@@ -23,8 +23,8 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 
 
 ## Programming Languages for AI
-1. Python **Recommended**
-2. R **Recommended**
+1. Python (**Recommended**)
+2. R (**Recommended**)
 3. Java 
 4. Lisp **Very Old but still suited**
 5. Prolog
