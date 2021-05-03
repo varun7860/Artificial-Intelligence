@@ -16,7 +16,7 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 
 ## Sub Catagories of AI
 
-<img align = "center" width = "200" height = "200" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Assets/AI Domians.jpeg" >
+<img align = "center" width = "200" height = "200" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Assets/AI%20Domains.png" >
 
 1. Machine Learning
 2. Data Mining
