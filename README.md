@@ -11,6 +11,9 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 3. Natural Language Processing
 4. Deep Learning
 5. Image Processing and Computer Vision.
+6. Robotics
+7. Fuzzy Logics
+8. Expert Systems
 
 
 ## Programming Languages for AI
@@ -23,4 +26,5 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 7. Javascript
 8. Matlab
 
-##
+## Artificial Intellience Basics - Complete Course
+
