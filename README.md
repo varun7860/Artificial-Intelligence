@@ -30,7 +30,7 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 
 ## Programming Languages for AI
 
-<img align = "center" width = "200" height = "200" src = "" >
+<img align = "center" width = "200" height = "200" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Assets/Programming%20Languages.jpg" >
 
 1. Python (**Recommended**)
 2. R (**Recommended**)
