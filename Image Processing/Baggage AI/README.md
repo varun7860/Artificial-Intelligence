@@ -20,8 +20,7 @@ achieved at the end of the task:
 2. `Translucent means the threat objects should have shades of background where it is pasted.`
 3. `Threat should not go outside the boundary of the baggage. **difficult**`
 4. `If there is any background of threat objects, then it should not be cut pasted into the`
-`background images, which means while cutting the threat objects, the boundary of a threat`
-`object should be tight-bound.`
+`background images, which means while cutting the threat objects, the boundary of a threat object should be tight-bound.`
 
 ## Sample Threat Image
 
