@@ -12,7 +12,10 @@ are programmed to think like humans and mimic their actions.
 
 ## Programming Languages for AI
 1. Python **Recommended**
-2. R 
-3. C++
-4. Java 
-5. 
+2. R **Recommended**
+3. Java 
+4. Lisp **Very Old but still suited**
+5. Prolog
+6. C++
+7. Javascript
+8. Matlab
