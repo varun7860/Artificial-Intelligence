@@ -1,6 +1,6 @@
 # Artificial-Intelligence
 
-<img align = "center" width = "200" height = "200" src = "" >
+<img align = "center" width = "200" height = "200" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Assets/Artificial-Intelligence.jpg" >
 
 Artificial Intelligence(AI) is a simulation of human intelligence in machines with the help of complex algorithms. These machines
 are programmed to think like humans and mimic their actions. The Artificial Intelligence is classified into 3 main types:
@@ -16,7 +16,7 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 
 ## Sub Catagories of AI
 
-<img align = "center" width = "200" height = "200" src = "" >
+<img align = "center" width = "200" height = "200" src = "https://github.com/varun7860/Artificial-Intelligence/blob/main/Assets/AI Domians.jpeg" >
 
 1. Machine Learning
 2. Data Mining
