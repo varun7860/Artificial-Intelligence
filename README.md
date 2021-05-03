@@ -31,6 +31,7 @@ are programmed to think like humans and mimic their actions. The Artificial Inte
 6. C++
 7. Javascript
 8. Matlab
+9. Julia
 
 ## Artificial Intelligence Basics - Complete Course
 
